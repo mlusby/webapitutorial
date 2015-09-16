@@ -1,0 +1,14 @@
+C:\source\webapitutorial\ProductsApp\bin\ProductsApp.dll.config
+C:\source\webapitutorial\ProductsApp\bin\ProductsApp.dll
+C:\source\webapitutorial\ProductsApp\bin\ProductsApp.pdb
+C:\source\webapitutorial\ProductsApp\bin\Newtonsoft.Json.dll
+C:\source\webapitutorial\ProductsApp\bin\System.Net.Http.Formatting.dll
+C:\source\webapitutorial\ProductsApp\bin\System.Web.Http.dll
+C:\source\webapitutorial\ProductsApp\bin\System.Web.Http.WebHost.dll
+C:\source\webapitutorial\ProductsApp\bin\Newtonsoft.Json.xml
+C:\source\webapitutorial\ProductsApp\bin\System.Net.Http.Formatting.xml
+C:\source\webapitutorial\ProductsApp\bin\System.Web.Http.xml
+C:\source\webapitutorial\ProductsApp\bin\System.Web.Http.WebHost.xml
+C:\source\webapitutorial\ProductsApp\obj\Debug\ProductsApp.csprojResolveAssemblyReference.cache
+C:\source\webapitutorial\ProductsApp\obj\Debug\ProductsApp.dll
+C:\source\webapitutorial\ProductsApp\obj\Debug\ProductsApp.pdb
